@@ -1,5 +1,5 @@
 # HackerRank Solutions
 
-##Languages Used
+## Languages Used
  - Python
  - JavaScript
