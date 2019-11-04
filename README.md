@@ -1,2 +1,5 @@
-# hackerrank
-Hackerrank Solutions
+# HackerRank Solutions
+
+##Languages Used
+ - Python
+ - JavaScript
